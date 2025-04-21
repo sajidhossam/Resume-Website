@@ -55,8 +55,8 @@ nav a:hover {
   padding-top: 120px;
 }
 .profile-pic {
-  width: 150px;
-  height: 150px;
+  width: 170px;
+  height: 170px;
   object-fit: cover;
   border-radius: 20px; /* Rounded rectangle */
   margin-bottom: 20px;
